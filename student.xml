@@ -1,0 +1,25 @@
+<!-- /////////////////////////////INVALID XML/////////////////// -->
+
+
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE student SYSTEM "student.dtd">
+
+<student>
+    <name>Rahul</name>
+    <marks>85</marks>
+    <rollno>101</rollno>
+</student> -->
+
+
+<!-- ///////////////////VALID XML///////////////////
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE student SYSTEM "student.dtd">
+
+<student>
+    <name>Rahul</name>
+    <rollno>101</rollno>
+    <marks>85</marks>
+</student> -->
